@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1757271096 source:e:\lab ri-p51 iformat\lab1_2_2_my51\lab1_2_2_my51\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
